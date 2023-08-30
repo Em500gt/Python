@@ -1,0 +1,20 @@
+[
+   {
+      "Name": "Homework8",
+      "Parents": "Homework",
+      "Type": "Directory",
+      "Size": 2728
+   },
+   {
+      "Name": "Task1.py",
+      "Parents": "Homework8",
+      "Type": "File",
+      "Size": 2728
+   },
+   {
+      "Name": "Task",
+      "Parents": "Homework",
+      "Type": "Directory",
+      "Size": 0
+   }
+]
